@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bassel1000
-- 👀 I’m interested in developing video games
-- 🌱 I’m currently learning c++ and Python
-- 💞️ I’m looking to collaborate on game
+- 🎓 I'm Computer Engineering student King Salman International University
 - 📫 How to reach me basselashraftmd@gmail.com or basselashraf@hotmail.com
 
 <!---
