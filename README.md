@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Bassel1000<br>🎓 I'm Computer Engineering student King Salman International University<br>📫 How to reach me basselashraftmd@gmail.com or basselashraf@hotmail.com
+👋 Hi, I’m @Bassel1000<br>🎓 I'm Computer Engineering student at King Salman International University<br>📫 How to reach me basselashraftmd@gmail.com or basselashraf@hotmail.com
 
 
 ## 🌐 Socials:
