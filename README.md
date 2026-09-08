@@ -49,10 +49,9 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ---
-
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bassel1000&show_icons=true&theme=radical&hide_border=true" alt="Bassel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassel1000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Bassel1000&show_icons=true&theme=radical&hide_border=true" alt="Bassel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassel1000&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
